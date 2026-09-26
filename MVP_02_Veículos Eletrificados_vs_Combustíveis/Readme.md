@@ -67,6 +67,9 @@ Responsável pela ingestão das bases de indicadores, geração das visualizaç�
 
 Notebook:
 - notebooks/gold/analise_consolidada
+
+### Tecnologias utilizadas:
+O desenvolvimento foi realizado utilizando Python no ambiente Databricks Free Edition. As etapas de tratamento e manipulação de dados foram executadas com Pandas, as visualizações foram construídas com Matplotlib e Seaborn e as projeções exploratórias foram realizadas com Scikit-Learn. O versionamento e a disponibilização do projeto foram realizados por meio do GitHub.
 # 5. Qualidade de Dados
 
 Foram realizadas verificações iniciais de qualidade de dados com foco nos aspectos de completude, consistência e estrutura das bases utilizadas.
